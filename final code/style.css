@@ -1,0 +1,290 @@
+body {
+    font-family: 'Abhaya Libre', sans-serif;
+}
+
+.banner-txt {
+    position: absolute;
+    top: 45vh;
+    left: 10%;
+    width: 400px;
+    color: #5A5A5A;
+    line-height: -10px;
+    letter-spacing: 0px;
+    ;
+}
+
+.banner-txt h1 {
+    font-weight: 400;
+    font-size: 75.5911px;
+    line-height: 110%;
+    margin-bottom: px;
+}
+
+.banner-txt p {
+    font-size: 28px;
+}
+
+
+.menu {
+    position: absolute;
+    width: 6px;
+    height: 57px;
+    left: 64px;
+    top: 327px;
+
+}
+
+.about {
+    position: absolute;
+    width: 437px;
+    height: 383px;
+    left: 788px;
+    bottom: -550px;
+
+    background: url(IMG_1340.jpg);
+    backdrop-filter: blur(1.5873px);
+    /* Note: backdrop-filter has minimal browser support */
+}
+
+.circle {
+    position: absolute;
+    width: 353px;
+    height: 353px;
+    left: 610px;
+    top: 950px;
+
+}
+
+.about2 {
+    position: absolute;
+    width: 183px;
+    height: 84px;
+    left: 180px;
+    bottom: -470px;
+
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 84px;
+    /* identical to box height */
+
+
+    color: #666666;
+}
+
+.arrow {
+    position: absolute;
+    width: 12.28px;
+    height: 39.52px;
+    left: 378.4px;
+    top: 1039px;
+}
+
+.about3 {
+    position: absolute;
+    width: 73px;
+    height: 16px;
+    left: 180px;
+    bottom: -390px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+
+    letter-spacing: 0.2rem;
+
+    /* 字 */
+
+    color: #666666;
+}
+
+.works {
+    position: absolute;
+    width: 250px;
+    height: 623px;
+    left: 180px;
+    top: 1452px;
+}
+
+.worksword1 {
+    position: absolute;
+    width: 190px;
+    height: 84px;
+    left: 466px;
+    bottom: -1030px;
+
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 71.132px;
+    line-height: 84px;
+    /* identical to box height */
+
+
+    color: #666666;
+}
+
+.worksword2 {
+    position: absolute;
+    width: 73px;
+    height: 16px;
+    left: 466px;
+    bottom: -952px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+
+    letter-spacing: 0.2rem;
+
+    /* 字 */
+
+    color: #666666;
+}
+
+.worksword3 {
+    position: absolute;
+    width: 340px;
+    height: 91.38px;
+    left: 466px;
+    bottom: -1110px;
+
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.4649px;
+    line-height: 19px;
+
+    /* 字 */
+
+    color: #666666;
+
+}
+
+.arrow2 {
+    position: absolute;
+    width: 12.28px;
+    height: 39.52px;
+    left: 675px;
+    top: 1600px;
+
+}
+
+.worksbigphoto {
+    position: absolute;
+    width: 450.02px;
+    height: 293.66px;
+    left: 828.44px;
+    bottom: -1200px;
+}
+
+.explanation1 {
+    position: absolute;
+    width: 337px;
+    height: 91px;
+    left: 180px;
+    bottom: -550px;
+
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.4649px;
+    line-height: 19px;
+
+    /* 字 */
+
+    color: #666666;
+}
+
+.color-block {
+    position: absolute;
+    width: 1290px;
+    height: 656px;
+    left: 0px;
+    top: 2200px;
+    background: #313131;
+}
+
+.last {
+    position: absolute;
+    width: 849px;
+    height: 374px;
+    left: 440px;
+    bottom: 0px;
+
+    background: url(DSC09238.jpg);
+
+}
+
+.explanation3 h4 {
+    position: absolute;
+    width: 320px;
+    height: 84px;
+    left: 100px;
+    bottom: 495px;
+
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 71px;
+    line-height: 84px;
+    margin: 0px;
+    color: #FFFFFF;
+    white-space: nowrap;
+}
+
+.explanation3 p {
+    position: absolute;
+    width: 337px;
+    height: 40px;
+    left: 100px;
+    bottom: 450px;
+
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.4649px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.adress p {
+    position: absolute;
+    width: 231px;
+    height: 116px;
+    left: 100px;
+    bottom: 258px;
+
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+.phone p {
+    position: absolute;
+    width: 114px;
+    height: 86px;
+    left: 950px;
+    top: 95px;
+    line-height: 30px;
+}
+
+.line {
+    position: absolute;
+    width: 191px;
+    height: 0px;
+    left: 750px;
+    bottom: 559px;
+}
